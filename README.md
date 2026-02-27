@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gI7RjnCM)
 # fc-for-loop
 
 # Assignment-1. Write a program that asks the user to enter today’s sales for five stores. The program should then display a bar graph comparing each store’s sales. Create each bar in the bar graph by displaying a row of asterisks.
